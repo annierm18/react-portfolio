@@ -20,7 +20,16 @@ export default function() {
                         <FontAwesomeIcon icon="envelope-square"/>
                         </div>
 
-                        <div className="text">annie@example.com</div>
+                        <div className="text">anniermfc@gmail.com</div>
+                    </div>
+
+
+                    <div className="bullet-point-group">
+                        <div className="icon">
+                        <FontAwesomeIcon icon="linkedin"/>
+                        </div>
+
+                        <div className="text">https://www.linkedin.com/in/aine-fitzgerald-coleman-69471684/</div>
                     </div>
 
                     <div className="bullet-point-group">
